@@ -1,0 +1,2 @@
+#!/bin/sh
+echo 'HostsSwitcher v1.0.0'
